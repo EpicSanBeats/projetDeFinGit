@@ -1,8 +1,4 @@
 @charset "UTF-8";
-body {
-  background-color: #012626 !important;
-}
-
 /*!
  * Bootstrap v5.2.0-beta1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
@@ -10733,6 +10729,14 @@ textarea.form-control-lg {
 #navtop {
   background-color: #027368;
   width: 100%;
+  box-shadow: 0px 3px 17px -2px #000000;
+}
+
+#header {
+  height: 100vh;
+  background-image: url(../img/background33.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*# sourceMappingURL=style.css.map */
