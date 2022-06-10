@@ -10730,6 +10730,13 @@ textarea.form-control-lg {
   color: #04bfad !important;
 }
 
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
 #header {
   height: 101vh;
   background-image: url(../img/background33.svg);
