@@ -1,4 +1,9 @@
 @charset "UTF-8";
+* {
+  text-decoration: none !important;
+  list-style: none !important;
+}
+
 /*!
  * Bootstrap v5.2.0-beta1 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
@@ -10753,6 +10758,14 @@ footer {
   background-image: url(../img/footer.svg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+footer {
+  padding-top: 95vh;
+}
+
+.copy {
+  color: white;
 }
 
 .section {

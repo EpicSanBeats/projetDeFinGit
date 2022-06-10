@@ -1,4 +1,7 @@
-
+* {
+    text-decoration: none !important;
+    list-style: none !important;
+}
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 @import "../sass/component/navbar";
