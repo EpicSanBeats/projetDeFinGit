@@ -10722,5 +10722,15 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+#about {
+  width: 100%;
+  height: 100vh;
+  background-color: purple;
+}
+
+#aboutContainer {
+  background: red;
+  height: 100%;
+}
 
 /*# sourceMappingURL=style.css.map */
