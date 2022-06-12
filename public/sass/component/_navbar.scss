@@ -1,0 +1,14 @@
+.navbar-toggler-icon {
+    background-image: url(../img/boombox1.svg);
+}
+
+.nav-link:hover {
+    color: #04bfad  !important;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
