@@ -1,10 +1,13 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../sass/component/navbar";
+@import "../sass/component/about";
+
 * {
     text-decoration: none !important;
     list-style: none !important;
 }
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
-@import "../sass/component/navbar";
 @import "../sass/component/header";
 @import "../sass/component/footer";
 @import "../sass/component/section";
